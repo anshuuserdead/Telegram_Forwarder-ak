@@ -32,11 +32,11 @@ There are two files mandatory for the bot to work `.env` and `chat_list.json`.
 
 Template env may be found in `sample.env`. Rename it to `.env` and fill in the values:
 
-- `BOT_TOKEN` - Telegram bot token. You can get it from [@BotFather](https://t.me/BotFather)
+- `6768692123:AAHsn8MZxuGpsPLiy264D7QmsddtmP8Qs5w` - Telegram bot token. You can get it from [@BotFather](https://t.me/BotFather)
 
-- `OWNER_ID` - An integer of consisting of your owner ID.
+- 6925648259 - An integer of consisting of your owner ID.
 
-- `REMOVE_TAG` - set to `True` if you want to remove the tag ("Forwarded from xxxxx") from the forwarded message.
+- `True` - set to `True` if you want to remove the tag ("Forwarded from xxxxx") from the forwarded message.
 
 #### `chat_list.json`
 
